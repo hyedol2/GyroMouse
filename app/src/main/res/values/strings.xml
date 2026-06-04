@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gyro Mouse</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_connected">Connected</string>
+    <string name="btn_left">LEFT</string>
+    <string name="btn_right">RIGHT</string>
+    <string name="btn_scroll">SCROLL</string>
+    <string name="btn_connect">Bluetooth</string>
+</resources>
