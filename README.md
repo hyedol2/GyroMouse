@@ -1,2 +1,2 @@
 # GyroMouse
-*IF YOU DON'T HAVE MOUSE??? THEN USE YOUR PHONE LIKE MOUSE!!!!*
+# *마우스가 없으신가요?? 그렇다면 스마트폰을 마우스처럼 사용하세요!!!!!*
